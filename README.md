@@ -23,6 +23,9 @@ Here are some key advantages and reasons for using it:
 
 In general, you should consider using QSystemTrayIcon if your application fits any of the above scenarios or if you think that system tray functionality will improve the user experience or functionality of your application.
 
+# Code Output
+https://github.com/god233012yamil/PyQt5_How_to_show_an_icon_in_the_system_tray/assets/5813359/c1fb1427-a87b-4374-b8d0-947dfe1e43b9
+
 
 
 
